@@ -1,0 +1,17 @@
+#carousel {
+  text-align: center;
+  height: 300;
+  width: 400;
+  border: 3px;
+  overflow: hidden;
+}
+
+ul {
+  width: 2000px;
+}
+
+li {
+  width: 400px;
+  float: left;
+  list-style: none;
+}
